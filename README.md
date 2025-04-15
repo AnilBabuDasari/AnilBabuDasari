@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Babu Dasari</h1>
-<h3 align="center"># DevOps & Security Focused A professional dedicated to automating workflows, securing applications, and deploying scalable solutions. Expertise in CI/CD, IaC, Cloud, Linux, and Networking. Committed to delivering secure and efficient systems through continuous learning and collaboration.</h3>
+<h3 align="center"> DevOps & Security Focused A professional dedicated to automating workflows, securing applications, and deploying scalable solutions. Expertise in CI/CD, IaC, Cloud, Linux, and Networking. Committed to delivering secure and efficient systems through continuous learning and collaboration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilbabudasari&label=Profile%20views&color=0e75b6&style=flat" alt="anilbabudasari" /> </p>
 
